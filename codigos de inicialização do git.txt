@@ -1,0 +1,77 @@
+echo "# projeto-inicial-html" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/P4uloRJesus/projeto- inicial-html.git
+ git push -u origin main
+
+
+    1  git
+    3  git config --global user.name "Paulo.Rocha"
+    4  git confif --global user.email paulorochajesus72@gmail.com
+    5  git config --global user.email paulorochajesus72@gmail.com
+    6  git config user.name
+ iniciando projeto no git 
+   10  git init
+   11  git add .
+   12  git commit -m "first commit"
+   13  git branch -M main
+   14  git branch
+   15  git remote add origin https://github.com/P4uloRJesus/projeto-inicial-html.git
+   16  git push -u origin main
+   17  git status
+   18  git diff
+   19  git add novo\ 1.html
+   20  git commit -m "adcionando novo html"
+   21  git poll
+   22  git pull
+   23  git push
+   24  git status
+   25  git diff
+   26  git add
+   27  git add .
+   28  git commit
+   29  git commit -m "coment"
+   30  git pull
+   31  git push
+   32  git add .
+   33  git status
+   34  git pull
+   35  git nit
+   36  git init
+   37  git branch -M main
+   38  git remote
+   39  git remote https://github.com/P4uloRJesus/programas-c
+   40  git remote add -m main
+   41  git remote add -m <main>
+   42  git remote add https://github.com/P4uloRJesus/programas-c
+   43  git remote add origin https://github.com/P4uloRJesus/programas-c
+   44  git status
+   45  git status
+   46  git status
+   47  git status
+   48  git add .
+   49  git commit "projeto c "
+   50  git commit -m "projeto c "
+   51  git pull
+   52  git push -u main
+   53  git push -u origin main
+   54  git pull
+   55  git pull -u origin main
+   56  git pull origin main
+   57  cd :
+   58  cd ..
+   59  git clone
+   60  git clone https://github.com/P4uloRJesus/programas-c.git
+   61  cd programas-c
+   62  git status
+   63  git add .
+   64  git commit -m "adicionando codigos"
+   65  git pull
+   66  git push
+   67  git status
+   68  git diff
+   69  git checkout .
+   70  git status
+   71  history
